@@ -1,0 +1,23 @@
+.bloque{
+    display: grid;
+    background-color: coral;
+    border-radius: 8%;
+    width: fit-content;
+    height: 200;
+    border-color: black;
+    margin: 10px, 10px, 10px,10px;
+}
+
+.id{
+    font-size: 200;
+    text-align: center;
+    color: gray;
+    margin: 10px, 10px, 10px,10px;
+}
+
+.data{
+    font-size: small;
+    color: black;
+    align-content: center;
+    margin: 10px, 10px, 10px,10px;
+}
